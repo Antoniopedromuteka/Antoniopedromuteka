@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭  Apaixonado por programação.
-- 🌱  Estudando Next Js & TS
+- 🌱  Estudando Next Js & TS.
  
  
  <div align="center">
