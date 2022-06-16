@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭  Apaixonado por programação.
 - 🌱  Estudando Next Js & TS.
  
- 
+ <a href="https://ignite-lab.rocketseat.com.br/ticket/green/Antoniopedromuteka/share"></a>
  <div align="center">
   <a href="https://github.com/Antoniopedromuteka">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antoniopedromuteka&show_icons=true&theme=cobalt&include_all_commits=false&count_private=false"/>
