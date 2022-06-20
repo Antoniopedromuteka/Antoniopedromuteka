@@ -9,7 +9,7 @@ Here are some ideas to get you started:
  <a href="https://ignite-lab.rocketseat.com.br/ticket/green/Antoniopedromuteka/share"></a>
  <div align="center">
   <a href="https://github.com/Antoniopedromuteka">
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antoniopedromuteka&show_icons=true&theme=cobalt&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniopedromuteka&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
