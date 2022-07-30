@@ -26,11 +26,7 @@ Here are some ideas to get you started:
   
   <img align="center" alt="Muteka-Firebase" height="30" width="40" src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png">
     <img align="center" alt="Muteka-Java" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png" />
-  <img align="center" alt="Muteka-Java" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
-
-  <img align="center" alt="Muteka-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Muteka-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- 
+  
 
 
   </div>
