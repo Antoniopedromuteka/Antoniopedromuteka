@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Muteka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   
-  <img align="center" alt="Muteka-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Muteka-Firebase" height="30" width="40" src="https://seeklogo.com/vector-logo/285376/firebase">
     <img align="center" alt="Muteka-Java" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png" />
   <img align="center" alt="Muteka-Java" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 
