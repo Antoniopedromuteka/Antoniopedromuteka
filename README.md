@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭  Apaixonado por programação.
-- 🌱  Estudando Next Js & TS.
+- 🌱  Estudando Node js.
  
  <a href="https://ignite-lab.rocketseat.com.br/ticket/green/Antoniopedromuteka/share"></a>
  <div align="center">
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
   
   <img align="center" alt="Muteka-Firebase" height="30" width="40" src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png">
-    <img align="center" alt="Muteka-Java" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png" />
+    <img align="center" alt="Muteka-Node js" height="30" width="40" src="https://nodejs.org/static/images/logo.svg" />
   
 
 
