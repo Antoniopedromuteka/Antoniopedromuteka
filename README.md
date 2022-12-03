@@ -1,4 +1,4 @@
-### Olá, Eu sou António Muteka 👋.<br/> <br/> Desenvolvedor Web, Front end (React js & Next js), Back end (Node Js Prisma IO)
+### Olá, Eu sou António Muteka 👋.<br/> <br/> Desenvolvedor Web, Front end (React js & Next js), Back end (Node Js & Prisma IO)
 
   
 Here are some ideas to get you started:
