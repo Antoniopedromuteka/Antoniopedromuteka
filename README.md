@@ -20,7 +20,7 @@ Here are some ideas to get you started:
    <img align="center" alt="Muteka-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
   <img align="center" alt="Muteka-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Muteka-React" height="30" width="40" src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png">
-  <img align="center" alt="Muteka-React" height="30" width="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s8sx8IYNE-/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogreact.com/wpcontent/uploads/2020/10/1_htbUdWgFQ3a94PMEvBr_hQ.png%3Fresize%3D750%252C428%26ssl%3D1"/>
+    <img align="center" alt="Muteka-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
   <img align="center" alt="Muteka-Node js" height="30" width="40" src="https://nodejs.org/static/images/logo.svg" />
   
  
