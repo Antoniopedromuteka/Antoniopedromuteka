@@ -5,6 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭  Apaixonado por programação.
 - 🌱  TDD, UI UX.
+<a href="https://stardev.io/developers/Antoniopedromuteka"><img alt="Check out Antoniopedromuteka&apos;s profile on stardev.io" src="https://stardev.io/developers/Antoniopedromuteka/badge/languages/global.svg" /></a>
 
  
  <a href="https://ignite-lab.rocketseat.com.br/ticket/green/Antoniopedromuteka/share"></a>
