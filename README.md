@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Muteka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Muteka-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
-  <img align="center" alt="Muteka-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Muteka-React" height="30" width="40" src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png">
-    <img align="center" alt="Muteka-React" height="30" width="40" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png">
-  <img align="center" alt="Muteka-Node js" height="30" width="40" src="https://nodejs.org/static/images/logo-hexagon-card.png" />
+  <img align="center" alt="Muteka-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Muteka-Js" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+  <img align="center" alt="Muteka-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Muteka-React" height="40" width="40" src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png">
+    <img align="center" alt="Muteka-React" height="40" width="40" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png">
+  <img align="center" alt="Muteka-Node js" height="40" width="40" src="https://nodejs.org/static/images/logo-hexagon-card.png" />
   
  
-  <img align="center" alt="Muteka-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Muteka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Muteka-Firebase" height="30" width="40" src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png">
+  <img align="center" alt="Muteka-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Muteka-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Muteka-Firebase" height="40" width="40" src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png">
   
   
 
