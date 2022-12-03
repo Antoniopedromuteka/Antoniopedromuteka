@@ -5,15 +5,17 @@ Here are some ideas to get you started:
 
 - 🔭  Apaixonado por programação.
 - 🌱  TDD, UI UX.
-<a href="https://stardev.io/developers/Antoniopedromuteka"><img alt="Check out Antoniopedromuteka&apos;s profile on stardev.io" src="https://stardev.io/developers/Antoniopedromuteka/badge/languages/global.svg" /></a>
 
- 
  <a href="https://ignite-lab.rocketseat.com.br/ticket/green/Antoniopedromuteka/share"></a>
  <div align="center">
   <a href="https://github.com/Antoniopedromuteka">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antoniopedromuteka&show_icons=true&theme=cobalt&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniopedromuteka&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+  
+<div>
+    <a href="https://stardev.io/developers/Antoniopedromuteka"><img alt="Check out Antoniopedromuteka&apos;s profile on stardev.io"                       src="https://stardev.io/developers/Antoniopedromuteka/badge/languages/global.svg" /></a>  
+</div>  
 
   
 <div style="display: inline_block"><br>
