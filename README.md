@@ -1,10 +1,10 @@
-### Olá, Eu sou António Muteka 👋.<br/> <br/> Desenvolvedor Web, Front end (React js & Next js), Back end (Node Js & Prisma IO)
+### Olá, Eu sou António Muteka 👋.<br/> <br/> Desenvolvedor Web Fullstack
 
   
 Here are some ideas to get you started:
 
 - 🔭  Apaixonado por programação.
-- 🌱  TDD, UI UX.
+- 🌱  TDD.
 
  <a href="https://ignite-lab.rocketseat.com.br/ticket/green/Antoniopedromuteka/share"></a>
  <div align="center">
