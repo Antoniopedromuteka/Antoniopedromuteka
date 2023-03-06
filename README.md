@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭  Apaixonado por programação.
-- 🌱  TDD.
+- 🌱  CI/CD.
 
  <a href="https://ignite-lab.rocketseat.com.br/ticket/green/Antoniopedromuteka/share"></a>
  <div align="center">
