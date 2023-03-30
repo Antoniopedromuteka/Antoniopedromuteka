@@ -1,4 +1,4 @@
-### Olá, Eu sou António Muteka 👋.<br/> <br/> Desenvolvedor web e Mobile
+### Olá, Eu sou António Muteka 👋.<br/> <br/>Desenvolvedor web e Mobile
 
   
 Here are some ideas to get you started:
