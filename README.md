@@ -1,10 +1,10 @@
-### Olá, Eu sou António Muteka 👋.<br/> <br/> Desenvolvedor Web Fullstack
+### Olá, Eu sou António Muteka 👋.<br/> <br/> Desenvolvedor web e Mobile
 
   
 Here are some ideas to get you started:
 
 - 🔭  Apaixonado por programação.
-- 🌱  CI/CD.
+- 🌱  Jest.
 
  <a href="https://ignite-lab.rocketseat.com.br/ticket/green/Antoniopedromuteka/share"></a>
  <div align="center">
