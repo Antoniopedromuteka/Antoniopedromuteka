@@ -19,9 +19,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/antoniomuteka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="antoniomuteka" /></a></p><br><br>
 
+<div style={display: "flex"}>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniopedromuteka&show_icons=true&locale=en&layout=compact" alt="antoniopedromuteka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniopedromuteka&show_icons=true&locale=en" alt="antoniopedromuteka" /></p>
+</div>
 
 
   
