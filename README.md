@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h2>Hello, I'm Antonio Muteka </h2>
-<br>    seedling I’m currently learning Pyton, Django<br>
+<br>    seedling I’m currently learning Python, Django<br>
 
 
 ## 🌐 Socials:
