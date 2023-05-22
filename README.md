@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm António Muteka</h1>
 <h3 align="center">A passionate Fullstack developer from Angola</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniopedromuteka&label=Profile%20views&color=0e75b6&style=flat" alt="antoniopedromuteka" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoniopedromuteka" alt="antoniopedromuteka" /></a> </p>
-
 - 🌱 I’m currently learning **Pyton, Django**
 <div style={display: "flex", alignItems: "center"}>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniopedromuteka&show_icons=true&locale=en&layout=compact" alt="antoniopedromuteka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniopedromuteka&show_icons=true&locale=en" alt="antoniopedromuteka" /></p>
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniopedromuteka&label=Profile%20views&color=0e75b6&style=flat" alt="antoniopedromuteka" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoniopedromuteka" alt="antoniopedromuteka" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
