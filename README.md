@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h2>Hello, I'm Antonio Muteka, Fullstack Developer </h2>
-<br>    seedling I’m currently learning Python, Django<br>
+<br>    I’m currently learning Python, Django<br>
 
 
 ## 🌐 Socials:
