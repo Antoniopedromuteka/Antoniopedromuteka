@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h2>Hello, I'm Antonio Muteka, Software Engineer </h2>
-<br>    I’m currently learning Python, Django<br>
+<br>    I’m currently learning Cypress<br>
 
 
 ## 🌐 Socials:
