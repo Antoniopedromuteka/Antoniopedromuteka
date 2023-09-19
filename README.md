@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Hello, I'm Antonio Muteka, Fullstack Developer </h2>
+<h2>Hello, I'm Antonio Muteka, Software Engineer </h2>
 <br>    I’m currently learning Python, Django<br>
 
 
