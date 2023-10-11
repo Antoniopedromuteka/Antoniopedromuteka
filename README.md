@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Hello, I'm Pedro Muteka, Software Engineer</h2>
+<h2>Hello, I'm Pedro Muteka, Software Developer</h2>
 <br>    I’m currently learning Cypress<br>
 
 
