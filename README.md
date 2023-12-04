@@ -1,12 +1,7 @@
 # 💫 About Me:
 <h2>Hello, I'm Pedro Muteka, Software Developer</h2>
 <br>    I’m currently learning Angular <br>
-AWS_ACCESS_KEY_ID = AKIARYJT3QY7VRWW62LD
-AWS_SECRET_ACCESS_KEY = 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
 
-SECRET_JWT = 77ee7a29-3a4f-4a13-bce3-68ea6d698c97
-PORT = 4444
-DATABASE_URL="postgresql://postgres:root@localhost:5432/farmacia01?schema=public"
 
 
 ## 🌐 Socials:
