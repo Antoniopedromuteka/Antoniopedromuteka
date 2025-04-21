@@ -2,8 +2,6 @@
 <h2>Hello, I'm Pedro Muteka, Software Developer</h2>
 <br>    I’m currently learning Angular <br>
 
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedromuteka6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ant%C3%B3nio-muteka-54843a229/) 
 
